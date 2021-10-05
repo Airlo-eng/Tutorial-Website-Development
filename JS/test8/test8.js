@@ -22,6 +22,6 @@ var numberOfCars = cars.length; // returns length of array
 
 var lastCar = cars[cars.length - 1];
 
-console.log(cars);
+// console.log(cars);
 console.log(numberOfCars);
 console.log(lastCar);
