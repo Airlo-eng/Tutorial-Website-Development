@@ -1,0 +1,48 @@
+a:hover{
+    color: #78ffd0;
+}
+a:visited{
+    color: #d359ff;
+}
+a:active{
+    color: blue;
+}
+button:hover{
+    background-color: #ff4529;
+    color: white;
+}
+button:active{
+    background-color: #d13b24;
+}
+li:hover{
+    background-color: #93ff7d
+}
+li:active{
+    background-color: #caffbf
+}
+/*
+li:first-child{
+    background-color: #93ff7d;
+}
+li:last-child{
+    background-color: #93ff7d;
+}
+li:nth-child(3){
+    background-color: #93ff7d;
+}
+li:nth-child(odd){
+    background-color: #93ff7d;
+}
+li:nth-child(even){
+    background-color: #caffbf;
+} 
+li:nth-child(4n+0){
+    background-image: linear-gradient(to right, #fff421, #ffffff);
+    <--!
+        nth-child(an+b)
+        a = cycle size
+        n = counter (starts at 0)
+        b = offset value
+    !-->
+}
+*/
