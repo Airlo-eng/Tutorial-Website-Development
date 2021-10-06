@@ -21,7 +21,7 @@ else {
 
 var online = true;
 
-if (online == true) {
+if (online) {
     console.log("Airlo is online");
 }
 else {
